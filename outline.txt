@@ -15,6 +15,7 @@ III. What it is
   C. Local
 IV. What it looks like
   A. See ~/code/aor_git_pres/examples.txt
+  B. This is the part we're in now. Awesome.
 V. Wrap-up
   a. Think of something to put here
   B. Questions
