@@ -1,0 +1,21 @@
+Practical Git Quickstart
+
+I. Intro
+  A. Who I am
+  B. Problems with learning git
+  C. "Cool kids" using git
+II. What is isn't
+  A. Complicated
+  B. Centralized
+  C. Subversion
+  D. Scary
+III. What it is
+  A. Fast
+  B. Distributed
+  C. Local
+IV. What it looks like
+  A. See ~/code/aor_git_pres/examples.txt
+V. Wrap-up
+  a. Think of something to put here
+  B. Questions
+

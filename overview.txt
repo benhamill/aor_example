@@ -1,0 +1,2 @@
+Many people who love git have a tendency to get excited by the internals of it; how it does the things that make it so great. For the uninitiated, these details can be intimidating and more than a little opaque. We'll look at a (very) brief over-view of what git is and isn't, then get to the more important question to the working developer: "How do I use it?" We'll look at commonly used commands, discuss various work-flows, and compare and contrast subversion's ways of doing things. The focus will be on how to get things done, not how does git work.
+
